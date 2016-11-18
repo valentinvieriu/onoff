@@ -1,7 +1,7 @@
 # onoff 
 
 GPIO access and interrupt detection with **Node.js** on Linux boards like the
-Raspberry Pi Zero, 1, 2, or 3, BeagleBone, or BeagleBone Black.
+Raspberry Pi Zero, 1, 2, or 3, BeagleBone, or BeagleBone Black, CHIP.
 
 ## Installation
 
